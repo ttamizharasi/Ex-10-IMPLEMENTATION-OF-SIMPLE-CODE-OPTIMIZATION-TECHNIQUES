@@ -10,7 +10,7 @@ To write a C program to implement simple code optimization techniques such as Co
 4. After Dead code elimination, the subexpression that is of no use can be identified and is eliminated.
 5. Stop the program.
 # PROGRAM
-exp10.c
+# exp10.c
 ```
 #include<stdio.h>
 #include<ctype.h>
